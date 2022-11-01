@@ -1,0 +1,27 @@
+---
+title: "Jiayi Yang"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+
+## Welcome to Jiayi's personal website!
+
+I am a Graduate student at Columbia University studying MPH Epidemiology. My academic certificate is Applied Biostatistics and Public Health Data Analysis.
+
+## Some Links outside the website
+
+* [Github](https://github.com/jy3186)
+* [Email](jy3186@cumc.columbia.edu)
+* [LinkedIn](https://www.linkedin.com/in/jiayi-yang-jy3186/)
+
+
+## Links to page within the website
+* [About me](about.html)
+* [Plotly](plotly_dashboard.Rmd)
+
+![](images/Jiayi_photo.jpg)
+

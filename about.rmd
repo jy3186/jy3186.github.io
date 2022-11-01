@@ -1,0 +1,48 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This page has information about me
+
+I am a Graduate student at Columbia University studying MPH Epidemiology. My academic certificate is Applied Biostatistics and Public Health Data Analysis.
+
+### CONTACT
+
+New York, NY • jy3186@cumc.columbia.edu • (646) 617-7616 • LinkedIn: www.linkedin.com/in/jiayi-yang-jy3186
+
+### EDUCATION
+Columbia University Mailman School of Public Health – New York, NY        May 2023 
+  Master of Public Health in Epidemiology (STEM), Certificate in Applied Biostatistics and Public Health Data Science                                            GPA:4.02/4
+
+• Relevant courses: Applied Epidemiologic Analysis, Introduction to SAS, Health Economics, Applied Biostatistics, Relational Database, Public Health Data Science (R markdown), Applied Logistic and Linear Regression
+    
+University of California, San Diego – San Diego, CA                       Jun 2021
+  Bachelor of Arts in Economics & Bachelor of Science in Public Health
+  
+### LEADERSHIP & EXTRACURRICULAR ACTIVITIES
+• Vice President and Public Relations Department Chair at Columbia University Medical Center CSSA
+• Graduate Teaching Assistant of HIV Epidemiology Course
+• Administration Department Chair at UCSD-Eta Omega Chi (Business-focused organization)
+
+### RESEARCH & ANALYSIS EXPERIENCE
+Columbia University Medical Center/New York-Presbyterian Hospital – New York, NY Research Assistant of “CLABSI and Parenteral Nutrition”
+
+• Analyzed over 19000+ hospitalized patients’ data from NYP hospital’s EPIC and Eclipsys system, performed exploratory data analysis (EDA) and logistic regression analysis using SAS to explore the research question “Whether central-lined patients receiving Parenteral Nutrition (PN) are at higher risks for Central-Line Associated Bloodstream Infections (CLABSI) than those without PN”, and helped prepare data shells for a manuscript to publish
+
+• Identified over 25 variables as risk factors of CLABSI through literature review, collaborated with SMEs to extract over 6000 clinical data points from patients’ database within 20 days
+
+• Conducted multivariable linear regression analysis in SAS to quantify the impacts of each of 25 risk factors for CLABSI, and developed a risk profile presentation to help improve the clinical care of patients at risk
+
+### SKILLS AND INTERESTS
+• Technical Skills: Excel, PowerPoint, SAS, R, Python, SQL, MATLAB, STATA, SPSS, Google Analytics
+
+• Certifications: Advanced Google Analytics, Humanities Responsible Conduct of Research
+
+• Languages: Mandarin Chinese, English
+
+• Interests: Fine Dining, Wine, R&B and Jazz Music, Swimming, Snorkeling, Tennis
